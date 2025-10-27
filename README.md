@@ -3,6 +3,7 @@
 
 # 💫 About Me:
 <br>I am passionate about exploring the huge world of cybersecurity, delving into its diverse domains, and building secure digital solutions for tomorrow..<br>I also do web development and learn how to code well and securely.<br>Currently I am working on Application Security and learning how to use Linux.<br>
+- 🌱 I’m currently learning **Linux**
 
 
 # 💻 Tech Stack:
