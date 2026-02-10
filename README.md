@@ -2,8 +2,20 @@
 <h3 align="center">A passionate Cybersecurity Enthusiast</h3>
 
 # 💫 About Me:
-<br>I am passionate about exploring the huge world of cybersecurity, delving into its diverse domains, and building secure digital solutions for tomorrow..<br>I also do web development and learn how to code well and securely.<br>Current Projects:<br>
-● Personal Home Lab
+<br>I am passionate about exploring the huge world of cybersecurity, delving into its diverse domains, and building secure digital solutions for tomorrow..
+<br>I work at the intersection of cybersecurity, machine learning, and systems engineering. My projects involve building intrusion detection systems, analyzing malware, and applying ML models to real-world security problems such as anomaly detection and toxic content classification.
+I believe good security starts with understanding systems deeply.<br>  
+Tech I enjoy working with:  
+• Linux  
+• Python  
+• ML/NLP   
+• System logs  
+• Security tooling
+
+## 👨‍💻 Current Projects
+
+● Personal Home Lab  
+● HIDS - Host based IDS  
 
 
 
