@@ -12,7 +12,7 @@ Tech I enjoy working with:
 • System logs  
 • Security tooling
 
-## 👨‍💻 Current Projects
+# 👨‍💻 Current Projects
 
 ● Personal Home Lab  
 ● HIDS - Host based IDS  
