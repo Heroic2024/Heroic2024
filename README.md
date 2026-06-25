@@ -16,7 +16,9 @@ I enjoy working on problems where:<br>→ Data is messy<br>→ Systems are compl
 # 👨‍💻 Current Projects
 
 ● Personal Home Lab  
+
 ● multi-agent fraud detection
+
 ● Agentic SOC
 
 # 💻 Tech Stack:
