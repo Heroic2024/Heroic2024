@@ -8,13 +8,16 @@
 
 My AI/ML work includes:<br>Designing anomaly detection models for system-level threats<br>Building multilingual NLP classifiers for toxic content<br>Experimenting with real-world noisy datasets and improving model robustness<br>
 
+I enjoy DevSecOps, with a strong focus on building secure software by integrating security practices throughout the development pipeline - from code creation and testing to deployment and production.
+
 I enjoy working on problems where:<br>→ Data is messy<br>→ Systems are complex<br>→ And simple solutions don’t work<br><br>
 <br>Philosophy: Deep system understanding → Better security → Smarter models
 
 # 👨‍💻 Current Projects
 
 ● Personal Home Lab  
-● 
+● multi-agent fraud detection
+● Agentic SOC
 
 # 💻 Tech Stack:
 ## Languages
