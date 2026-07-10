@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Mhatre</h1>
-<h3 align="center">Cybersecurity student, AIML Developer</h3>
+<h3 align="center">Cybersecurity student and learning AIML</h3>
 
 
 
