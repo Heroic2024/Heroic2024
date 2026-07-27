@@ -4,11 +4,13 @@
 
 
 # 💫 About Me:
-<br>I am a cybersecurity student trying to work on building robust systems to improve performance and create a greater impact.<br><br>Focus areas:<br>Detection Engineering (HIDS, anomaly detection)<br>Applied Machine Learning for Security<br>Malware Behavior Analysis<br>
+<br>I am a cybersecurity student trying to work on building robust systems to improve performance and create a greater impact.<br><br>Focus areas:<br>Detection Engineering (HIDS, anomaly detection)<br>Applied Machine Learning for Security<br>Ethical Hacking and VAPT<br>GRC and auditing<br>
 
 My AI/ML work includes:<br>Designing anomaly detection models for system-level threats<br>Building multilingual NLP classifiers for toxic content<br>Experimenting with real-world noisy datasets and improving model robustness<br>
 
-I enjoy DevSecOps, with a strong focus on building secure software by integrating security practices throughout the development pipeline - from code creation and testing to deployment and production.
+Have experience in web application security and conducting VAPT of web applications 
+
+enjoys DevSecOps, with a strong focus on building secure software by integrating security practices throughout the development pipeline - from code creation and testing to deployment and production.
 
 I enjoy working on problems where:<br>→ Data is messy<br>→ Systems are complex<br>→ And simple solutions don’t work<br><br>
 <br>Philosophy: Deep system understanding → Better security → Smarter models
@@ -19,9 +21,9 @@ I enjoy working on problems where:<br>→ Data is messy<br>→ Systems are compl
 
 ● multi-agent fraud detection
 
-● Agentic SOC
+● Memory layer development for SOC applications
 
-# 💻 Tech Stack:
+# 💻 Tech stack that I have worked with:
 ## Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
