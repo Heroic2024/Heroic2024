@@ -4,10 +4,14 @@
 
 
 # 💫 About Me:
-<br>I am a cybersecurity student trying to work on building robust systems to improve performance and create a greater impact.<br><br>Focus areas:<br>Detection Engineering (HIDS, anomaly detection)<br>Applied Machine Learning for Security<br>Ethical Hacking and VAPT<br>GRC and auditing<br>
+<br>I am a cybersecurity student trying to work on building robust systems to improve performance and create a greater impact.<br>
+### Focus areas:
+Detection Engineering (HIDS, anomaly detection)<br>Applied Machine Learning for Security<br>Ethical Hacking and VAPT<br>GRC and auditing<br>
 
-My AI/ML work includes:<br>Designing anomaly detection models for system-level threats<br>Building multilingual NLP classifiers for toxic content<br>Experimenting with real-world noisy datasets and improving model robustness<br>
+### My AI/ML work includes:
+Designing anomaly detection models for system-level threats<br>Building multilingual NLP classifiers for toxic content<br>Experimenting with real-world noisy datasets and improving model robustness<br>
 
+### Experience
 Have experience in web application security and conducting VAPT of web applications 
 
 enjoys DevSecOps, with a strong focus on building secure software by integrating security practices throughout the development pipeline - from code creation and testing to deployment and production.
