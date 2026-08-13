@@ -45,7 +45,7 @@ I enjoy working on problems where:<br>→ Data is messy<br>→ Systems are compl
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Heroic2024)<br/>
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Heroic2024&&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Heroic2024/github-readme-stats-fast)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Heroic2024&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Heroic2024&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
